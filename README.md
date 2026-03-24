@@ -1,5 +1,5 @@
-## Hi 👋 I'm Marcus
-# Fullstack Development & UX Design 
+# Hi 👋 I'm Marcus
+## Fullstack Development & UX Design 
 
 ## 🚀 Tech Stack
 
