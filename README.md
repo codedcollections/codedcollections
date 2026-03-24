@@ -1,8 +1,5 @@
 # Hi 👋 I'm Marcus
 ## Fullstack Development & UX Design 
-
-## 🚀 Tech Stack
-
 ## 💻 Programming
 | Skill | Icon |
 |------|------|
