@@ -1,4 +1,6 @@
 ## Hi there 👋
+| Skill | Icon |
+|------|------|
 | HTML5 | ![HTML](https://skillicons.dev/icons?i=html) |
 | CSS3 | ![CSS](https://skillicons.dev/icons?i=css) |
 | JavaScript | ![JS](https://skillicons.dev/icons?i=js) |
