@@ -1,11 +1,7 @@
 # Hi 👋 I'm Marcus
 ## Fullstack Development & UX Design 
 ## 💻 Programming
-| Skill | Icon |
-|------|------|
-| VS Code | ![VSCode](https://skillicons.dev/icons?i=vscode) |
-| Git | ![Git](https://skillicons.dev/icons?i=git) |
-| Node.js | ![Node](https://skillicons.dev/icons?i=nodejs) |
+![Skills](https://skillicons.dev/icons?i=vscode,git,nodejs)
 
 ## 🎨 Frontend
 | Skill | Icon |
