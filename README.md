@@ -7,7 +7,7 @@
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress,sass,bootstrap)
 
 ## 🧩 Backend
-![Skills](https://skillicons.dev/icons?i=postgres,express,mongodb,py)
+![Skills](https://skillicons.dev/icons?i=sql,postgres,express,mongodb,py)
 
 ## 💡 UX Design
 ![Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr)
