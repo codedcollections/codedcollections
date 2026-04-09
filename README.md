@@ -7,11 +7,7 @@
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress,sass,bootstrap)
 
 ## 🧩 Backend
-| Skill | Icon |
-|------|------|
-| PostgreSQL | ![Postgres](https://skillicons.dev/icons?i=postgres) |
-| MongoDB (Mongoose) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
-| Python | ![Python](https://skillicons.dev/icons?i=py) |
+![Skills](https://skillicons.dev/icons?i=postgres,mongodb,py)
 
 ## 💡 UX Design
 | Skill | Icon |
