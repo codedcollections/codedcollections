@@ -10,12 +10,7 @@
 ![Skills](https://skillicons.dev/icons?i=postgres,mongodb,py)
 
 ## 💡 UX Design
-| Skill | Icon |
-|------|------|
-| Figma | ![Figma](https://skillicons.dev/icons?i=figma) |
-| Adobe Illustrator | ![AI](https://skillicons.dev/icons?i=ai) |
-| Adobe Photoshop | ![PS](https://skillicons.dev/icons?i=ps) |
-| Adobe Premiere Pro | ![PR](https://skillicons.dev/icons?i=pr) |
+![Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr)
 <!--
 **codedcollections/codedcollections** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
