@@ -4,16 +4,7 @@
 ![Skills](https://skillicons.dev/icons?i=vscode,git,nodejs)
 
 ## 🎨 Frontend
-| Skill | Icon |
-|------|------|
-| HTML5 | ![HTML](https://skillicons.dev/icons?i=html) |
-| CSS3 | ![CSS](https://skillicons.dev/icons?i=css) |
-| JavaScript | ![JS](https://skillicons.dev/icons?i=js) |
-| React | ![React](https://skillicons.dev/icons?i=react) |
-| Vite | ![Vite](https://skillicons.dev/icons?i=vite) |
-| WordPress | ![WordPress](https://skillicons.dev/icons?i=wordpress) |
-| Sass | ![Sass](https://skillicons.dev/icons?i=sass) |
-| Bootstrap | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) |
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress,sass,bootstrap)
 
 ## 🧩 Backend
 | Skill | Icon |
