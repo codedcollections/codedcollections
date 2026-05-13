@@ -1,6 +1,7 @@
-# Hi 👋 I'm Marcus
-## 📫 Contact
+# Hi👋 I'm Marcus
+I’m a fullstack developer and UX designer. I love turning ideas into interactive and user-friendly web applications. I focus on both the technical side (frontend & backend) and the design side (UX design, wireframes & usability) to build complete digital products.
 
+## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-unander/)
 
 ## Fullstack Development & UX Design 
