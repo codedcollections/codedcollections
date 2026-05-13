@@ -4,18 +4,27 @@ I’m a fullstack developer and UX designer. I love turning ideas into interacti
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-unander/)
 
-## Fullstack Development & UX Design 
-## 💻 Programming
+---
+
+### 💻 Programming
 ![Skills](https://skillicons.dev/icons?i=vscode,git,nodejs)
 
-## 🎨 Frontend
+---
+
+### 🎨 Frontend
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,wordpress,sass,bootstrap)
 
-## 🧩 Backend
+---
+
+### 🧩 Backend
 ![Skills](https://skillicons.dev/icons?i=postgres,firebase,express,mongodb,py)
 
-## 💡 UX Design
+---
+
+### 💡 UX Design
 ![Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr)
+
+---
 <!--
 **codedcollections/codedcollections** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
